@@ -1,0 +1,17 @@
+
+h1
+{
+	color: rgba(255, 0, 0, 0.979); 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("download.jfif");
+	background-position: center;
+	background-size: cover;
+}
+
+#my_canvas{
+border-width: 10px;
+background-color: darkviolet;
+border-style:double;
+}
